@@ -1,0 +1,7 @@
+{
+  "name": "Taz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
